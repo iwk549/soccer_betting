@@ -7,4 +7,4 @@ The probability of each result (Home Win, Away Win, Draw) is then used in conjun
 The second part of the project involves using a machine learning algorithm (such as Support Vector Classification or Known Nearest Neighbors) to make predictions based solely on the betting odds offered.
 
 
-The three betting_stat files are used to pull in the stored results and update them on www.dosshouse.us
+The three 'betting' files are used to pull in the stored results and update them on www.dosshouse.us
