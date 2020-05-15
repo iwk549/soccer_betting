@@ -5,3 +5,6 @@ That number is then fed into a Poisson distribution and 10,000 matches are simul
 The probability of each result (Home Win, Away Win, Draw) is then used in conjunction with betting odds to make a bet that should give the highest rate of return.
 
 The second part of the project involves using a machine learning algorithm (such as Support Vector Classification or Known Nearest Neighbors) to make predictions based solely on the betting odds offered.
+
+
+The three betting_stat files are used to pull in the stored results and update them on www.dosshouse.us
